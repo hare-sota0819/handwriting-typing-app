@@ -1,0 +1,10 @@
+node_modules/
+tools/
+out/
+out_doc/
+.playwright-cli/
+input/*.docx
+!input/test_equations.docx
+
+# spike/debug holds committed evidence images (root .gitignore excludes debug/)
+!debug/

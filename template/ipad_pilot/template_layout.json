@@ -1,0 +1,364 @@
+{
+  "version": 1,
+  "dpi": 150,
+  "page_px": [
+    1240,
+    1754
+  ],
+  "native_size_px": 132,
+  "cell_w": 84,
+  "cell_h": 132,
+  "n_cells": 2,
+  "marker_size_px": 36,
+  "guide_fractions": {
+    "ascender": 0.14,
+    "x_height": 0.46,
+    "baseline": 0.7,
+    "descender": 0.89
+  },
+  "pages": [
+    {
+      "index": 0,
+      "markers": [
+        [
+          108,
+          108
+        ],
+        [
+          1132,
+          108
+        ],
+        [
+          1132,
+          1646
+        ],
+        [
+          108,
+          1646
+        ]
+      ],
+      "cells": [
+        {
+          "char": "a",
+          "index": 0,
+          "rect": [
+            142,
+            172,
+            226,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "a",
+          "index": 1,
+          "rect": [
+            234,
+            172,
+            318,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "e",
+          "index": 0,
+          "rect": [
+            362,
+            172,
+            446,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "e",
+          "index": 1,
+          "rect": [
+            454,
+            172,
+            538,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "g",
+          "index": 0,
+          "rect": [
+            582,
+            172,
+            666,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "g",
+          "index": 1,
+          "rect": [
+            674,
+            172,
+            758,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "f",
+          "index": 0,
+          "rect": [
+            802,
+            172,
+            886,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "f",
+          "index": 1,
+          "rect": [
+            894,
+            172,
+            978,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "z",
+          "index": 0,
+          "rect": [
+            142,
+            380,
+            226,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "z",
+          "index": 1,
+          "rect": [
+            234,
+            380,
+            318,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "t",
+          "index": 0,
+          "rect": [
+            362,
+            380,
+            446,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "t",
+          "index": 1,
+          "rect": [
+            454,
+            380,
+            538,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": ".",
+          "index": 0,
+          "rect": [
+            582,
+            380,
+            666,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": ".",
+          "index": 1,
+          "rect": [
+            674,
+            380,
+            758,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "(",
+          "index": 0,
+          "rect": [
+            802,
+            380,
+            886,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "(",
+          "index": 1,
+          "rect": [
+            894,
+            380,
+            978,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "∂",
+          "index": 0,
+          "rect": [
+            142,
+            588,
+            226,
+            720
+          ],
+          "guides": {
+            "ascender": 606,
+            "x_height": 649,
+            "baseline": 680,
+            "descender": 705
+          }
+        },
+        {
+          "char": "∂",
+          "index": 1,
+          "rect": [
+            234,
+            588,
+            318,
+            720
+          ],
+          "guides": {
+            "ascender": 606,
+            "x_height": 649,
+            "baseline": 680,
+            "descender": 705
+          }
+        },
+        {
+          "char": "θ",
+          "index": 0,
+          "rect": [
+            362,
+            588,
+            446,
+            720
+          ],
+          "guides": {
+            "ascender": 606,
+            "x_height": 649,
+            "baseline": 680,
+            "descender": 705
+          }
+        },
+        {
+          "char": "θ",
+          "index": 1,
+          "rect": [
+            454,
+            588,
+            538,
+            720
+          ],
+          "guides": {
+            "ascender": 606,
+            "x_height": 649,
+            "baseline": 680,
+            "descender": 705
+          }
+        }
+      ]
+    }
+  ]
+}

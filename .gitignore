@@ -1,0 +1,44 @@
+.venv/
+__pycache__/
+*.pyc
+glyphs/synthetic/
+out/
+scans/
+
+debug/
+glyphs/real_straight/
+
+# user-dropped course material (large binaries, not product data)
+Thermodynamics_and_Thermostatistics_Lecture_Notes.pdf
+
+# WSL alternate-data-stream artefacts from files copied out of Windows
+*:Zone.Identifier
+
+# large source scans live on disk only, never in git history
+archive/*.pdf
+# user coursework dropped in for analysis: large, private, never in git
+archive/spike_oneoff/input/*.docx
+!archive/spike_oneoff/input/test_equations.docx
+# 136MB and regenerable by scripts/make_template_collection.py; the layout JSON is what code reads
+template/collection/template.pdf
+
+# user coursework used as test input: personal, and not ours to commit
+samples/*_2026101227_*.docx
+
+# assistant/harness artifacts never belong in the product repo
+
+# Windows exe build artifacts (packaging/build_windows.bat)
+.venv-win/
+tools/
+dist/
+build/
+packaging/app_name.local.txt
+packaging/app_icon.local.png
+packaging/app_icon.local.ico
+glyphs/demo/
+template/ipad_pilot/
+
+# 62MB and regenerable by scripts/make_template_new_hand.py
+template/new_hand/template.pdf
+# regenerable by scripts/make_template_arrows.py
+template/arrows/template.pdf

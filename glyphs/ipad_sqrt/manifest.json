@@ -1,0 +1,283 @@
+{
+  "version": 1,
+  "native_size_px": 296,
+  "characters": {
+    "big:√": {
+      "folder": "big_sqrt",
+      "advance_width": 75.5,
+      "variants": [
+        {
+          "file": "big_sqrt/v0.png",
+          "baseline_y": 328,
+          "advance_width": 79.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            55,
+            456
+          ]
+        },
+        {
+          "file": "big_sqrt/v1.png",
+          "baseline_y": 328,
+          "advance_width": 77.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            53,
+            455
+          ]
+        },
+        {
+          "file": "big_sqrt/v2.png",
+          "baseline_y": 328,
+          "advance_width": 79.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            55,
+            452
+          ]
+        },
+        {
+          "file": "big_sqrt/v3.png",
+          "baseline_y": 328,
+          "advance_width": 69.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            45,
+            460
+          ]
+        },
+        {
+          "file": "big_sqrt/v4.png",
+          "baseline_y": 328,
+          "advance_width": 77.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            53,
+            455
+          ]
+        },
+        {
+          "file": "big_sqrt/v5.png",
+          "baseline_y": 328,
+          "advance_width": 79.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            55,
+            452
+          ]
+        },
+        {
+          "file": "big_sqrt/v6.png",
+          "baseline_y": 328,
+          "advance_width": 70.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            46,
+            460
+          ]
+        },
+        {
+          "file": "big_sqrt/v7.png",
+          "baseline_y": 328,
+          "advance_width": 77.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            53,
+            460
+          ]
+        },
+        {
+          "file": "big_sqrt/v8.png",
+          "baseline_y": 328,
+          "advance_width": 79.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            55,
+            457
+          ]
+        },
+        {
+          "file": "big_sqrt/v9.png",
+          "baseline_y": 328,
+          "advance_width": 69.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            0,
+            45,
+            460
+          ]
+        }
+      ]
+    },
+    "√": {
+      "folder": "sym_u221a",
+      "advance_width": 87.6,
+      "variants": [
+        {
+          "file": "sym_u221a/v0.png",
+          "baseline_y": 328,
+          "advance_width": 87.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            28,
+            63,
+            323
+          ]
+        },
+        {
+          "file": "sym_u221a/v1.png",
+          "baseline_y": 328,
+          "advance_width": 92.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            26,
+            68,
+            324
+          ]
+        },
+        {
+          "file": "sym_u221a/v2.png",
+          "baseline_y": 328,
+          "advance_width": 83.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            28,
+            59,
+            323
+          ]
+        },
+        {
+          "file": "sym_u221a/v3.png",
+          "baseline_y": 328,
+          "advance_width": 88.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            30,
+            64,
+            325
+          ]
+        },
+        {
+          "file": "sym_u221a/v4.png",
+          "baseline_y": 328,
+          "advance_width": 92.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            28,
+            68,
+            326
+          ]
+        },
+        {
+          "file": "sym_u221a/v5.png",
+          "baseline_y": 328,
+          "advance_width": 83.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            30,
+            59,
+            325
+          ]
+        },
+        {
+          "file": "sym_u221a/v6.png",
+          "baseline_y": 328,
+          "advance_width": 88.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            36,
+            64,
+            331
+          ]
+        },
+        {
+          "file": "sym_u221a/v7.png",
+          "baseline_y": 328,
+          "advance_width": 92.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            34,
+            68,
+            332
+          ]
+        },
+        {
+          "file": "sym_u221a/v8.png",
+          "baseline_y": 328,
+          "advance_width": 83.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            36,
+            59,
+            331
+          ]
+        },
+        {
+          "file": "sym_u221a/v9.png",
+          "baseline_y": 328,
+          "advance_width": 88.0,
+          "left_bearing": 8.0,
+          "right_bearing": 8.0,
+          "ink_bbox": [
+            8,
+            38,
+            64,
+            333
+          ]
+        }
+      ]
+    },
+    " ": {
+      "folder": null,
+      "advance_width": 158.4,
+      "variants": []
+    }
+  }
+}

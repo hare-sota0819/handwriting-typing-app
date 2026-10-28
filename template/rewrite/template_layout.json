@@ -1,0 +1,384 @@
+{
+  "version": 1,
+  "dpi": 150,
+  "page_px": [
+    1240,
+    1754
+  ],
+  "native_size_px": 132,
+  "cell_w": 84,
+  "cell_h": 132,
+  "n_cells": 10,
+  "marker_size_px": 36,
+  "guide_fractions": {
+    "ascender": 0.14,
+    "x_height": 0.46,
+    "baseline": 0.7,
+    "descender": 0.89
+  },
+  "pages": [
+    {
+      "index": 0,
+      "markers": [
+        [
+          108,
+          108
+        ],
+        [
+          1132,
+          108
+        ],
+        [
+          1132,
+          1646
+        ],
+        [
+          108,
+          1646
+        ]
+      ],
+      "cells": [
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 0,
+          "rect": [
+            142,
+            172,
+            226,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 1,
+          "rect": [
+            234,
+            172,
+            318,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 2,
+          "rect": [
+            326,
+            172,
+            410,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 3,
+          "rect": [
+            418,
+            172,
+            502,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 4,
+          "rect": [
+            510,
+            172,
+            594,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 5,
+          "rect": [
+            602,
+            172,
+            686,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 6,
+          "rect": [
+            694,
+            172,
+            778,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 7,
+          "rect": [
+            786,
+            172,
+            870,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 8,
+          "rect": [
+            878,
+            172,
+            962,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:x",
+          "key": "math:x",
+          "index": 9,
+          "rect": [
+            970,
+            172,
+            1054,
+            304
+          ],
+          "guides": {
+            "ascender": 190,
+            "x_height": 233,
+            "baseline": 264,
+            "descender": 289
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 0,
+          "rect": [
+            142,
+            380,
+            226,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 1,
+          "rect": [
+            234,
+            380,
+            318,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 2,
+          "rect": [
+            326,
+            380,
+            410,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 3,
+          "rect": [
+            418,
+            380,
+            502,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 4,
+          "rect": [
+            510,
+            380,
+            594,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 5,
+          "rect": [
+            602,
+            380,
+            686,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 6,
+          "rect": [
+            694,
+            380,
+            778,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 7,
+          "rect": [
+            786,
+            380,
+            870,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 8,
+          "rect": [
+            878,
+            380,
+            962,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        },
+        {
+          "char": "math:y",
+          "key": "math:y",
+          "index": 9,
+          "rect": [
+            970,
+            380,
+            1054,
+            512
+          ],
+          "guides": {
+            "ascender": 398,
+            "x_height": 441,
+            "baseline": 472,
+            "descender": 497
+          }
+        }
+      ]
+    }
+  ]
+}

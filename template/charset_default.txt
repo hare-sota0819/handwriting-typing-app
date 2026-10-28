@@ -1,0 +1,107 @@
+# Handwriting template charset - one entry per line, in capture order.
+#   Rules:
+#   - Each non-comment line is ONE cell-block's character(s). Usually a single
+#     character (a, A, 5, ?), but multi-codepoint / whitespace-bearing entries
+#     are fine since each line is exactly one entry.
+#   - Blank lines are ignored.
+#   - A line whose first non-space char is '#' is a comment, EXCEPT a line that
+#     is exactly '#', which captures the hash character. So always give comment
+#     lines some text after '#', and write the hash glyph as a lone '#'.
+#   Default set: 26 lowercase + 26 uppercase + 10 digits + 25 punctuation = 87.
+#   Swap this file to generate a template for any other set (e.g. Greek + math)
+#   without touching make_template.py.
+
+# --- lowercase ---
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+
+# --- uppercase ---
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+
+# --- digits ---
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+
+# --- punctuation ---
+.
+,
+;
+:
+!
+?
+'
+"
+(
+)
+[
+]
+-
+_
+/
+%
++
+=
+<
+>
+&
+*
+#
+@
+$

@@ -1,0 +1,12 @@
+# The 10-equation radical test set (2026-08-10) — every \sqrt shape the
+# renderer must assemble: symbol-sized, stretched over fractions, wide operands.
+x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+T = 2\pi\sqrt{\frac{L}{g}}
+T = 2\pi\sqrt{\frac{m}{k}}
+v_e = \sqrt{\frac{2GM}{R}}
+v = \sqrt{\frac{GM}{r}}
+v_{rms} = \sqrt{\frac{3k_B T}{m}}
+\gamma = \frac{1}{\sqrt{1 - v^2/c^2}}
+v = \sqrt{\frac{T}{\mu}}
+d = \sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}
+\varphi = \frac{1 + \sqrt{5}}{2}

@@ -1,0 +1,166 @@
+# Phase 2 math collection charset — one entry per line, in capture order.
+#   Same file format as charset_default.txt (see its header for the rules).
+#   Scope decided by the user 2026-08-03: "every symbol that could plausibly
+#   turn up in physics/maths", i.e. the confirmed 63 plus the expansion below.
+#  --
+#   NOT in this file (they need cells that are not the standard 84x132, so the
+#   template generator adds them from an explicit spec, not from this list):
+#     - oversized delimiters ( ) [ ] { } | written at full cell height, for
+#       stretchy \left(...\right) assemblies
+#     - horizontal pen strokes in wide cells (short / medium / long), used for
+#       fraction bars and radical overbars, which MathJax emits as RULES
+#       (rectangles) rather than glyphs — without these the page gets
+#       ruler-perfect lines through otherwise handwritten equations
+#  --
+#   Aliased away on purpose (an existing store glyph is reused instead):
+#     Greek capitals whose shape equals a Latin capital (A B E Z H I K M N O
+#     P T Y X), omicron -> o, ring operator -> degree, dot operator -> middle
+#     dot, and U+22EF horizontal ellipsis is synthesised from three middle dots.
+
+# --- Greek capitals (unique shapes only, 10) ---
+Γ
+Δ
+Θ
+Λ
+Ξ
+Π
+Σ
+Φ
+Ψ
+Ω
+
+# --- Greek lowercase (23; omicron excluded, aliased to o) ---
+α
+β
+γ
+δ
+ε
+ζ
+η
+θ
+ι
+κ
+λ
+μ
+ν
+ξ
+π
+ρ
+σ
+τ
+υ
+φ
+χ
+ψ
+ω
+
+# --- math core (21) ---
+∫
+∑
+∏
+√
+±
+∓
+×
+·
+÷
+≤
+≥
+≠
+≈
+∝
+→
+⇒
+∞
+∂
+∇
+ℏ
+°
+
+# --- user additions from STOP 0 rev 2 (6) ---
+≡
+′
+∴
+∵
+∮
+∠
+
+# --- optional set, confirmed in (3) ---
+⟨
+⟩
+∈
+
+# --- ASCII characters the English store never captured (7) ---
+{
+}
+|
+~
+^
+\
+`
+
+# --- set theory and logic (13) ---
+∉
+⊂
+⊃
+⊆
+⊇
+∪
+∩
+∅
+∀
+∃
+¬
+∧
+∨
+
+# --- further relations (5) ---
+≪
+≫
+≃
+≅
+∼
+
+# --- arrows (7) ---
+←
+↔
+⇔
+↑
+↓
+⇌
+↦
+
+# --- operators (6) ---
+⊕
+⊗
+⊙
+∗
+∥
+⊥
+
+# --- multiple integrals (2) ---
+∬
+∭
+
+# --- miscellaneous (6) ---
+ℓ
+″
+…
+†
+‡
+∎
+
+# --- accents, written standalone; the substitution layer places them over a
+#     letter (vector arrow, bar, hat, dot, double dot, tilde). The vector arrow
+#     reuses the -> glyph above, so only five are captured here. ---
+¯
+ˆ
+˙
+¨
+˜
+
+# --- math-italic letters (2): shaped differently in an equation than in
+#     prose, so they live under their own store keys (math_u0078/0079) and
+#     never substitute for the prose x/y. ---
+math:x
+math:y

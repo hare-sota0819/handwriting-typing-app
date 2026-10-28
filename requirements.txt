@@ -1,0 +1,7 @@
+pillow
+numpy
+python-docx
+pymupdf
+# GUI shell + Windows packaging
+PySide6
+pyinstaller

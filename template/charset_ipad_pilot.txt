@@ -1,0 +1,16 @@
+# iPad collection PILOT charset (10 chars x 2 variants).
+#   Chosen to exercise every glyph class before the full 63-symbol math
+#   collection: x-height body (a e), descender (g), ascender+crossbar (f t),
+#   baseline-hugger (z), tiny-ink punctuation (.), tall delimiter ((),
+#   and two math symbols from the Phase 2 collection set (∂ θ).
+
+a
+e
+g
+f
+z
+t
+.
+(
+∂
+θ
